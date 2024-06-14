@@ -1,6 +1,6 @@
 ## Pre-requirements / Versions
 
-First of all, make sure you've setup and running the [API](http://localhost:3000)
+First of all, make sure you've setup and running the [API](https://github.com/tkaing/eversun-test-api)
 
 - NODE version ^18.16
 - NPM version ^9.5
